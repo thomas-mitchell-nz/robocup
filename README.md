@@ -1,4 +1,11 @@
-# robocup
-The 2022 Robocup Challenge was a competition in which teams designed and built an autonomous robot to compete against other robots. The robots had to navigate an arena by avoiding walls and obstacles while collecting weights in the process. Two robots competed in the arena at the same time for two minutes. Teams gained points by collecting target weights and delivering them to their home base for a bonus. Instant victory was awarded to the teams that managed to capture a small mobile robot called the snitch.
+## RoboCup Autonomous Robot
+An autonomous robot designed for the 2022 RoboCup Challenge, built to navigate an arena, avoid obstacles, collect target weights, and pursue a mobile “snitch.”
 
-Link to project demo (my robot was the one that started on the green base): https://drive.google.com/file/d/1AE4FvJUHXvKbTWYg8DgM9hjHE_wRgTtY/view?usp=sharing
+**Features:**
+- Autonomous pathfinding with ultrasonic, infrared, and time-of-flight sensors
+- Finite state machine controlling movement and object interaction
+- Collision avoidance logic integrated with drive and steering systems
+- Servo-actuated mechanisms for weight collection and delivery
+
+**Link to project demo (my robot was the one that started on the green base):**  
+[Demo Video](https://drive.google.com/file/d/1AE4FvJUHXvKbTWYg8DgM9hjHE_wRgTtY/view?usp=sharing)
